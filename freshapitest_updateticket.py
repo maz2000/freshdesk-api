@@ -3,8 +3,8 @@ import requests
 import json
 from pprint import pprint 
 
-api_key = "7MlnYp82iwiT4bG4xO42"
-domain = "newaccount1641238466306"
+api_key = "API_KEY"
+domain = "DOMAIN"
 password = "x"
 
 ticket_id = "84"
