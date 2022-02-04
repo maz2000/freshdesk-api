@@ -5,8 +5,8 @@ from pprint import pprint
 import csv
 import datetime
 
-api_key = "7MlnYp82iwiT4bG4xO42"
-domain = "newaccount1641238466306"
+api_key = "API_KEY"
+domain = "DOMAIN"
 password = "x"
 
 headers = {'Content-Type': 'application/json'}
