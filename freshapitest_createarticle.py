@@ -4,8 +4,8 @@ from pprint import pprint
 import re
 import csv
 
-api_key = "7MlnYp82iwiT4bG4xO42"
-domain = "newaccount1641238466306"
+api_key = "API_KEY"
+domain = "DOMAIN"
 password = "x"
 folder_list = []
 headers = { 'Content-Type' : 'application/json' }
